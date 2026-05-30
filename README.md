@@ -2,7 +2,7 @@
 A Hard Word Slop Scientific Baldi Game
 
 # SOURCE CODE IS WRONG (NOT UPDATED SOURCE CODE)
-Yeah and soon this source code is changed to decompiled so you can make yourself a SLOP GAME.
+Yeah this source code is NOT INCLUDES Beta V1.1.2.2 VERSION!!! and soon this source code is changed to decompiled so you can make yourself a SLOP GAME.
 
 # How to play
 On main menu select menu and how to play and it should say it
