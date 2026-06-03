@@ -2,7 +2,7 @@
 A Hard Word Slop Scientific Baldi Game
 
 # SOURCE CODE IS WRONG (NOT UPDATED SOURCE CODE)
-Yeah this source code is NOT INCLUDES Beta V1.1.2.2 VERSION!!! and soon this source code is changed to decompiled so you can make yourself a SLOP GAME.
+Yeah this source code is NOT INCLUDES Beta V1.1.2.5 VERSION!!! and soon this source code is changed to decompiled so you can make yourself a SLOP GAME.
 
 [![Version](https://img.shields.io/github/v/release/LotusSCP/ATOM-ATOM-ATOM-ATOM-ATOM?sort=semver&label=Version)](https://github.com/LotusSCP/ATOM-ATOM-ATOM-ATOM-ATOM/releases/)
 [![Downloads](https://img.shields.io/github/downloads/LotusSCP/ATOM-ATOM-ATOM-ATOM-ATOM/total?label=Downloads)](https://github.com/LotusSCP/ATOM-ATOM-ATOM-ATOM-ATOM/releases/)
